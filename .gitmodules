@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rocnp"]
+	path = rocnp
+	url = https://github.com/dragosmg/rocnp
+	shallow = true
+	registered = true
