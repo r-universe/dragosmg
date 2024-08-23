@@ -2,12 +2,19 @@
 	path = .registry
 	url = https://github.com/dragosmg/dragosmg.r-universe.dev
 	branch = HEAD
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	subdir = R
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
 [submodule "rocnp"]
 	path = rocnp
 	url = https://github.com/dragosmg/rocnp
+[submodule "solvebio"]
+	path = solvebio
+	url = https://github.com/solvebio/solvebio-r
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
