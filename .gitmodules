@@ -5,7 +5,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	subdir = R
+	subdir = r
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
