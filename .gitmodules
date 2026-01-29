@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/dragosmg/dragosmg.r-universe.dev
 	branch = HEAD
-[submodule "covr2gh"]
-	path = covr2gh
-	url = https://github.com/dragosmg/covr2gh
 [submodule "rocnp"]
 	path = rocnp
 	url = https://github.com/dragosmg/rocnp
