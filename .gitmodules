@@ -5,6 +5,9 @@
 [submodule "covr2gh"]
 	path = covr2gh
 	url = https://github.com/dragosmg/covr2gh
+[submodule "multigrain"]
+	path = multigrain
+	url = https://github.com/GSK-Biostatistics/multigrain
 [submodule "rocnp"]
 	path = rocnp
 	url = https://github.com/dragosmg/rocnp
